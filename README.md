@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**jernejk/jernejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I work at SSW - check out my other profile: https://www.ssw.com.au/people/jk
+- 🔭 I’m currently working on TimePro Xero integration at SSW and [Cognitive Studio](https://github.com/jernejk/CognitiveServices.Explorer) in free time
+- 🌱 I’m currently learning Cognitive Services, ML.NET, organizing online/VR events
+- 🎤 I'm (co)organizer of [Brisbane AI User Group](https://www.meetup.com/Brisbane-AI-User-Group/) and [AI Hack Day](https://aihackday.com/)
+- 👯 I’m looking to collaborate on building AI, Blazor projects and/or learning material
+- 🤔 I’m looking for help with building [Cognitive Studio](https://github.com/jernejk/CognitiveServices.Explorer)
+- 💬 Ask me about .NET Core, EF Core, Cognitive Services, ML.NET, Blazor, Azure Functions
+- 📫 How to reach me: @jernej_kavka
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Spend more time in VR than outside 🤖
