@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jernej Kavka but you can call me JK. 😁
+
 - 💻 I work at SSW - check out my other profile: https://www.ssw.com.au/people/jk
 - 🔭 I’m currently working on TimePro Xero integration at SSW and [Cognitive Studio](https://github.com/jernejk/CognitiveServices.Explorer) in free time
 - 🌱 I’m currently learning Cognitive Services, ML.NET, organizing online/VR events
@@ -11,3 +13,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Spend more time in VR than outside 🤖
 - 🎥 Next talk/workshop: [Getting Started with Machine Learning using ML.NET](https://ndcminnesota.com/agenda/getting-started-with-machine-learning-using-mlnet-0r7l/0jy71lj4nx6) workshop.
+
+![JK's github stats](https://github-readme-stats.vercel.app/api/?username=jernejk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
