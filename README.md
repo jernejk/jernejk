@@ -9,6 +9,7 @@ I'm Jernej Kavka but you can call me JK. 😁
 - 👯 I’m looking to collaborate on building AI, Blazor projects and/or learning material
 - 🤔 I’m looking for help with building [Cognitive Studio](https://github.com/jernejk/CognitiveServices.Explorer)
 - 💬 Ask me about .NET Core, EF Core, Cognitive Services, ML.NET, Blazor, Azure Functions
+- ♥️ I support many organizations, projects and developers on GitHub and [OpenCollective](https://opencollective.com/jernej-kavka)
 - 📫 How to reach me: @jernej_kavka
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Spend more time in VR than outside 🤖
