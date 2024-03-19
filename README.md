@@ -14,6 +14,20 @@ I'm Jernej Kavka but you can call me JK. 😁
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Spend more time in VR than outside 🤖
 
-![JK's github stats](https://github-readme-stats.vercel.app/api/?username=jernejk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## GitHub Stats
+
+<a href='https://github.com/jernejk'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jernejk&show_icons=true&count_private=true">
+    <img alt="JK's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jernejk&show_icons=true&theme=dark&count_private=true">
+  </picture>
+</a>
+
+<a href='https://github.com/jernejk'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jernejk&layout=compact">
+    <img alt="JK's GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jernejk&theme=dark&layout=compact">
+  </picture>
+</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjernejk&count_bg=%23E80B0B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
