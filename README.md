@@ -31,3 +31,6 @@ I'm Jernej Kavka but you can call me JK. 😁
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjernejk&count_bg=%23E80B0B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+<a href="https://gitroll.io/profile/unnkZHAk7uIVygqzfPZ71DQWU2U13" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unnkZHAk7uIVygqzfPZ71DQWU2U13" alt="GitRoll Profile Badge"/></a>
