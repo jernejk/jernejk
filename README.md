@@ -3,7 +3,7 @@
 I'm Jernej Kavka but you can call me JK. 😁
 
 - 💻 I work at SSW - check out my other profile: https://www.ssw.com.au/people/jk
-- 🔭 I’m currently working on .NET Framework to .NET 8 on a 20+ years old complex project at [SSW](https://www.ssw.com.au), EF Core common mistakes demos and random AI projects in my free time
+- 🔭 I’m currently working on [SSW TimePro](https://www.sswtimepro.com/)
 - 🌱 I’m currently learning .NET 8, efficient EF Core, Semantic Kernel, NUI and second digital brain
 - 🎤 I'm (co)organizer of [Global AI The Podcast](https://globalai.live/ai-the-podcast/) and [AI Hack Day](https://aihackday.com/) and a few other events
 - 👯 I’m looking to collaborate on building AI, Blazor projects and/or learning material
@@ -12,7 +12,7 @@ I'm Jernej Kavka but you can call me JK. 😁
 - ♥️ I support many organizations, projects and developers on GitHub and [OpenCollective](https://opencollective.com/jernej-kavka)
 - 📫 How to reach me: @jernej_kavka
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Spend more time in VR than outside 🤖
+- ⚡ Fun fact: Back in 2015, I created an AI agent that could make me a sandwich just to win a bet.
 
 ## GitHub Stats
 
