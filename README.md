@@ -4,7 +4,7 @@ I'm Jernej Kavka but you can call me JK. 😁
 
 - 💻 I work at SSW - check out my other profile: https://www.ssw.com.au/people/jk
 - 🔭 I’m currently working on [SSW TimePro](https://www.sswtimepro.com/)
-- 🌱 I’m currently learning .NET 8, efficient EF Core, Semantic Kernel, NUI and second digital brain
+- 🌱 I’m currently learning .NET 9, efficient EF Core, Ambient Intelligence, LLM, NUI and second digital brain
 - 🎤 I'm (co)organizer of [Global AI The Podcast](https://globalai.live/ai-the-podcast/) and [AI Hack Day](https://aihackday.com/) and a few other events
 - 👯 I’m looking to collaborate on building AI, Blazor projects and/or learning material
 - 🤔 I’m looking for help with building AI and automation projects
