@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="./assets/jk-mvp-banner.png" alt="Illustrated banner of JK at a laptop with a Microsoft MVP badge" width="100%" />
 
-<img align="right" src="./assets/codex-pet-wave.gif" width="72" alt="Codex pet waving at the audience" />
+### Hi there 👋
 
 I'm Jernej Kavka but you can call me JK. 😁
 
