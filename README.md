@@ -39,3 +39,7 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
 
 
 <a href="https://gitroll.io/profile/unnkZHAk7uIVygqzfPZ71DQWU2U13" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unnkZHAk7uIVygqzfPZ71DQWU2U13" alt="GitRoll Profile Badge"/></a>
+
+![My GitHub Game](game.gif)
+
+Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
