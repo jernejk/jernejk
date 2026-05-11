@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="./assets/codex-pet-wave.gif" width="72" alt="Codex pet waving at the audience" />
+
 I'm Jernej Kavka but you can call me JK. 😁
 
 I’ve been building AI-adjacent projects since the early 2010s, from Kinect games and gesture engines to Cortana bots and computer vision apps.
@@ -14,6 +16,7 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
 - ♥️ I support many organizations, projects and developers on GitHub and [OpenCollective](https://opencollective.com/jernej-kavka)
 - 📫 How to reach me: @jernej_kavka
 - 😄 Pronouns: He/Him
+- 🐾 Created a familiar Codex pet — [petdex.crafter.run/pets/jk](https://petdex.crafter.run/pets/jk)
 - ⚡ Fun fact: Back in 2015, I created an AI agent that could make me a sandwich just to win a bet.
 
 ## GitHub Stats
@@ -32,7 +35,7 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
   </picture>
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjernejk&count_bg=%23E80B0B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile views](https://komarev.com/ghpvc/?username=jernejk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jernejk)
 
 
 <a href="https://gitroll.io/profile/unnkZHAk7uIVygqzfPZ71DQWU2U13" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unnkZHAk7uIVygqzfPZ71DQWU2U13" alt="GitRoll Profile Badge"/></a>
