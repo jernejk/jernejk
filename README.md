@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<img align="right" src="./assets/codex-pet-wave.gif" width="72" alt="Codex pet waving at guests" />
+
 I'm Jernej Kavka but you can call me JK. 😁
 
 I’ve been building AI-adjacent projects since the early 2010s, from Kinect games and gesture engines to Cortana bots and computer vision apps.
