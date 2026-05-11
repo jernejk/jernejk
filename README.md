@@ -40,4 +40,10 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
 [![Profile views](https://komarev.com/ghpvc/?username=jernejk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jernejk)
 
 
-<a href="https://gitroll.io/profile/unnkZHAk7uIVygqzfPZ71DQWU2U13" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unnkZHAk7uIVygqzfPZ71DQWU2U13" alt="GitRoll Profile Badge"/></a>
+## Demo people remember
+
+<a href="https://github.com/jernejk/home-automation-offline-gpt">
+  <img src="./assets/storybridge-offline-ai-demo.jpg" alt="Offline AI home automation demo matching home lights to Story Bridge colours" width="100%" />
+</a>
+
+<sub>Local/offline AI + MCP + Home Assistant, matching the Story Bridge colours live on stage.</sub>
