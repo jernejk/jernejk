@@ -10,11 +10,11 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
 
 - 💻 I currently work at SSW - check out my other profile: https://www.ssw.com.au/people/jk
 - 🔭 I’m currently working on teaching and learning various AI communities in Brisbane as a volunteer organiser and presenter
-- 🌱 I’m currently learning .NET 10, efficient EF Core, Ambient Intelligence, LLM, NUI and second digital brain
+- 🌱 I’m currently exploring agentic AI and coding-agent workflows: repo understanding, tool use, tests, debugging, evaluation, performance investigation and PR review using tools like OpenAI Codex
 - 🎤 I'm (co)organizer of [Global AI The Podcast](https://globalai.live/ai-the-podcast/), [Brisbane Build Club](https://www.meetup.com/build-club-brisbane/) City Lead and a few other events
 - 👯 I’m looking to collaborate on building AI, Blazor projects and/or learning material
 - 🤔 I’m looking for help with building AI and automation projects, especially for personal
-- 💬 Ask me about .NET Core, EF Core, Cognitive Services, ML.NET, Blazor, Azure Functions, ChatGPT, future of AI
+- 💬 Ask me about agentic AI, coding agents, Azure AI Foundry, .NET, EF Core, agent evaluation, developer productivity and practical AI workflows
 - ♥️ I support many organizations, projects and developers on GitHub and [OpenCollective](https://opencollective.com/jernej-kavka)
 - 📫 How to reach me: @jernej_kavka
 - 😄 Pronouns: He/Him
@@ -47,3 +47,4 @@ I’ve been building AI-adjacent projects since the early 2010s, from Kinect gam
 </a>
 
 <sub>Local/offline AI + MCP + Home Assistant, matching the Story Bridge colours live on stage.</sub>
+
